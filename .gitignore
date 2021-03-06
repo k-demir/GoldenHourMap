@@ -1,0 +1,14 @@
+frontend/node_modules
+frontend/eslintcache
+frontend/public/Shadows.js
+frontend/public/Shadows.wasm
+frontend/.DS_Store
+
+backend/__pycache__
+backend/resources/heightmaps/*
+backend/resources/raw_heightmaps/*
+backend/resources/map_images/*
+backend/resources/raw_map_images/*
+backend/.DS_Store
+
+.vscode

@@ -1,0 +1,16 @@
+.Sidebar {
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 8px;
+    width: 20vw;
+    position: absolute;
+    left: 2vw;
+    top: 5vh;
+    z-index: 99;
+    line-height: 30px;
+    -webkit-user-select: none;      
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    box-shadow: 1px 1px 5px 3px rgba(0,0,0,0.5);
+    }
